@@ -1,4 +1,4 @@
-<!-- <div id="badges">
+<div id="badges">
   <a href="https://www.linkedin.com/in/pedrocelso/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
@@ -15,10 +15,37 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pedrocelso&theme=monokai&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
+# Pedro Costa
+
+### Tech Lead & Senior Fullstack Engineer
+
+I'm a highly accomplished and results-driven **Tech Lead and Senior Fullstack Engineer** with over 17 years of experience in crafting robust and scalable software solutions. My passion lies in building impactful products and leading cross-functional teams to success. I specialize in **Go (Golang)** for powerful backend systems and **ReactJS** for dynamic and engaging user interfaces.
+
+---
+
+### 🚀 What I Do
+
+I thrive on tackling complex challenges and delivering high-impact solutions across diverse industries, including financial services, gaming, and e-commerce. I'm adept at:
+
+* **Architectural Design:** Designing scalable and resilient systems.
+* **Team Leadership:** Guiding and mentoring developers to achieve strategic objectives.
+* **Driving Innovation:** Fostering collaboration and driving technological adoption.
+
+---
+
+### 🛠️ My Toolkit
+
+Here's a glimpse into some technologies and tools I use/used throughout my life:
+
+**Languages:** Go (Golang), JavaScript, Java, TypeScript
+**Frontend:** ReactJS, Next.js, Tailwind CSS, SASS, Material UI, MobX, Redux, PixiJS
+**Backend:** GraphQL, RESTful APIs, Gin, Microservices, Serverless Functions
+**Databases:** Azure SQL Server, Azure Cosmos DB, Oracle, SQL Server, MySQL, MongoDB
+**Cloud:** Microsoft Azure (AZ), Google Cloud Platform (GCP)
+**DevOps & CI/CD:** Docker, GitHub Actions, Kafka, Azure Event Hub, Kafka Connect
+**Methodologies:** SCRUM, Kanban
+
+---
 
 ### :fire: My Stats :
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocelso&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocelso&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api) -->
