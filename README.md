@@ -13,7 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>  
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pedrocelso&theme=monokai&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pedrocelso&theme=monokai&rank=-C,-B&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Pedro Costa
 
@@ -35,7 +35,7 @@ I thrive on tackling complex challenges and delivering high-impact solutions acr
 
 ### 🛠️ My Toolkit
 
-Here's a glimpse into some technologies and tools I use/used throughout my life:
+Here's a glimpse into some technologies and tools I used throughout my life:
 
 **Languages:** Go (Golang), JavaScript, Java, TypeScript
 **Frontend:** ReactJS, Next.js, Tailwind CSS, SASS, Material UI, MobX, Redux, PixiJS
